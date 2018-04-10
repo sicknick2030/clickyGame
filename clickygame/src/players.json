@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/Images/ben.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/Images/chris.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/Images/james.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/Images/jordan.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/Images/jr.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/Images/kelly.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/Images/kevin.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/Images/kobe.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/Images/kyle.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/Images/lebron.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/Images/steph.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/Images/wilt.jpeg",
+      "clicked": false
+    }
+  ]
