@@ -1,8 +1,8 @@
 {
-  "homepage": "https://sicknick2030.github.io/clickyGame",
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/sicknick2030/clickyGame",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.1",
@@ -10,10 +10,10 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
